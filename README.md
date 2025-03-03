@@ -7,6 +7,6 @@
 
 
 
-These are scripts for pan-cacner TRM cells analyses.
+These are scripts for pan-cacner mast cells analyses.
 
 
